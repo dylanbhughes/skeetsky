@@ -41,7 +41,7 @@ The Bluesky Social application encompasses a set of schemas and APIs built in th
 - Check for existing issues before filing a new one please.
 - Open an issue and give some time for discussion before submitting a PR.
 - Stay away from PRs like...
-  - Changing "Post" to "Skeet."
+  - Changing "Skeet" to "Post."
   - Refactoring the codebase, e.g., to replace MobX with Redux or something.
   - Adding entirely new features without prior discussion. 
 
