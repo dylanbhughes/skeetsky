@@ -1,8 +1,10 @@
-# Bluesky Social App
+# Skeetsky - A Bluesky Social App Offshoot
 
-Welcome friends! This is the codebase for the Bluesky Social app.
+Welcome friends! This is the codebase for an offshoot of the Bluesky Social app, Skeetsky.
 
-Get the app itself:
+@dylanbhughes took it upon himself to create a fork of Bluesky where "Posts" are called "Skeets", purely for his own amusement.
+
+Links to the actual Bluesky app you were looking for:
 
 - **Web: [bsky.app](https://bsky.app)**
 - **iOS: [App Store](https://apps.apple.com/us/app/bluesky-social/id6444370199)**
@@ -27,7 +29,7 @@ The Bluesky Social application encompasses a set of schemas and APIs built in th
 
 ## Contributions
 
-> While we do accept contributions, we prioritize high quality issues and pull requests. Adhering to the below guidelines will ensure a more timely review.
+We have no idea why you'd want to contribute to this application. Contribute to [the Bluesky Social app](https://github.com/bluesky-social/social-app) instead.
 
 **Rules:**
 
@@ -45,21 +47,9 @@ The Bluesky Social application encompasses a set of schemas and APIs built in th
   - Refactoring the codebase, e.g., to replace MobX with Redux or something.
   - Adding entirely new features without prior discussion. 
 
-Remember, we serve a wide community of users. Our day-to-day involves us constantly asking "which top priority is our top priority." If you submit well-written PRs that solve problems concisely, that's an awesome contribution. Otherwise, as much as we'd love to accept your ideas and contributions, we really don't have the bandwidth. That's what forking is for!
-
 ## Forking guidelines
 
-You have our blessing 🪄✨ to fork this application! However, it's very important to be clear to users when you're giving them a fork.
-
-Please be sure to:
-
-- Change all branding in the repository and UI to clearly differentiate from Bluesky.
-- Change any support links (feedback, email, terms of service, etc) to your own systems.
-- Replace any analytics or error-collection systems with your own so we don't get super confused.
-
-## Security disclosures
-
-If you discover any security issues, please send an email to security@bsky.app. The email is automatically CCed to the entire team and we'll respond promptly.
+Don't fork this app! Fork the [real one](https://github.com/bluesky-social/social-app).
 
 ## Are you a developer interested in building on atproto?
 
@@ -71,4 +61,4 @@ See [./LICENSE](./LICENSE) for the full license.
 
 ## P.S.
 
-We ❤️ you and all of the ways you support us. Thank you for making Bluesky a great place!
+We ❤️ you and all of the ways you support us. Thank you for making Bluesky a great and silly place!
